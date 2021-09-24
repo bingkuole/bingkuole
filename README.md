@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bingkuole
 - 👀 I’m interested in 
-- 🌱 I’m currently learning java and c
+- 🌱 I’m currently learning java and c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
